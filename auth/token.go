@@ -16,7 +16,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/scfobao/getui/publics"
 )
 
 type TokenParam struct {
