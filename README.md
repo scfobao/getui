@@ -33,9 +33,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dacker-soul/getui/auth"
-	"github.com/dacker-soul/getui/publics"
-	"github.com/dacker-soul/getui/push/single"
+	"github.com/scfobao/getui/auth"
+	"github.com/scfobao/getui/publics"
+	"github.com/scfobao/getui/push/single"
 )
 
 func main() {

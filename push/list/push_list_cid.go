@@ -4,7 +4,7 @@ package list
 import (
 	"context"
 	"encoding/json"
-	"github.com/dacker-soul/getui/publics"
+	"github.com/scfobao/getui/publics"
 )
 
 // cid批量推参数
